@@ -1,1 +1,1 @@
-Using a basic knowledge of JavaScript, HTML, CSS you can easily create a rock paper scissors game. 
+live : https://revanth-004.github.io/stone-paper-scissors/
